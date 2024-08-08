@@ -1,0 +1,398 @@
+    1  cd /
+    2  ls
+    3  cd ~
+    4  ls
+    5  clear
+    6  md DEMO
+    7  mkdir DEMO
+    8  ls
+    9  exit
+   10  pkg search
+   11  pkg search ubuntu
+   12  pkg search linux
+   13  exit
+   14  neofetch
+   15  exit
+   16  wsl
+   17  clear
+   18  ls
+   19  cd DEMO
+   20  touch file1.txt
+   21  ls
+   22  explorer.exe .
+   23  view
+   24  --help
+   25  ghelp
+   26  -help
+   27  clear
+   28  pkg -help
+   29  pkg help
+   30  list-all
+   31  list-installed
+   32  exit
+   33  pkg k
+   34  pkg list --installed
+   35  exit
+   36  git init
+   37  exit
+   38  ls
+   39  cd DEMO
+   40  ls
+   41  files.exe .
+   42  pkg file manager
+   43  pkg help
+   44  exit
+   45  pkg update
+   46  pkg install proot-distro
+   47  proot-distro login Ubuntu
+   48  exit
+   49  pkg update
+   50  pkg upgrade
+   51  pkg install proot-distro
+   52  proot-distro install Ubuntu
+   53  proot-distro list
+   54  proot-distro install ubuntu
+   55  proot-distro login ubuntu
+   56  sshd
+   57  pkg install openssh
+   58  nano $PREFIX/etc/ssh/sshd_config
+   59  passwd
+   60  exit
+   61  pkg install openssh
+   62  which sshd
+   63  sshd
+   64  ip addr show wlan0
+   65  whoamu
+   66  whoami
+   67  ifconfig
+   68  sshd
+   69  ifonfig
+   70  pkg install ifconfig
+   71  pkg install net-tools
+   72  ifconfig
+   73  pkg install tsu
+   74  tsu
+   75  ifconfig
+   76  exit
+   77  ip addr show wlan0
+   78  netstat -nr
+   79  exit
+   80  pkg install openssh
+   81  ssh-keygen -t rsa -b 2048 -f id_rsa
+   82  ssh-copy-id -p 8022 -i id_rsa.pub user@hostname_or_ip
+   83  exit
+   84  git clone https://github.com/yisha819/230273472-BATERINA
+   85  pkg install git
+   86  git clone https://github.com/yisha819/230273472-BATERINA
+   87  ls
+   88  cd DEMO
+   89  ls
+   90  cd ..
+   91  ls
+   92  cd 230273472-BATERINA
+   93  ls
+   94  cd DemoFiles
+   95  ls
+   96  javatest1.java
+   97  cd ~
+   98  pkg install openjdk-17
+   99  pkg install jre
+  100  clear
+  101  pkg install jre
+  102  clear
+  103  lz
+  104  ls
+  105  cd 230273472-BATERINA
+  106  ls
+  107  apt install default jdk
+  108  apt install default-jdk
+  109  apt install defaultjdk
+  110  apt install defaultjdk
+  111  pkg install openjdk
+  112  ls
+  113  cd DemoFiles
+  114  ls
+  115  javac javatest1.java
+  116  nano javatest1.java
+  117  java javatest1.java
+  118  java javatest1
+  119  cat javatest1.java
+  120  git status
+  121  exit
+  122  gh auth login
+  123  exit
+  124  pkg login Ubuntu
+  125  pkg history
+  126  proot-distro login Ubuntu
+  127  proot-distro login ubuntu
+  128  exit
+  129  pkg list-all
+  130  pkg update && pkg upgrade
+  131  pkg install openjdk-17
+  132  java -version
+  133  pkg install python
+  134  pkg install php
+  135  pkg install mariadb
+  136  pkg install apache2
+  137  cleat
+  138  clear
+  139  pkg update && pkg upgrade
+  140  clear
+  141  ls
+  142  mkdir TEST
+  143  ls
+  144  cd TEST
+  145  echo "Hello" >file1.txt
+  146  ls
+  147  cat file.txt
+  148  cat file1.txt
+  149  mv file1.txt newfile.txt
+  150  ls
+  151  rm newfile.txt
+  152  ls
+  153  cd ..
+  154  ls
+  155  rmdir TEST
+  156  ls
+  157  clear
+  158  ls
+  159  mkdir PROJECTS
+  160  ls
+  161  cd /
+  162  cd PROJECT
+  163  cd PROJECTS
+  164  ls
+  165  cd ~
+  166  ls
+  167  cd PROJECTS
+  168  echo "Termux is great!" >notes.txt
+  169  ren notes.txt my_notes.txt
+  170  rm notes.txt
+  171  clear
+  172  cd ..
+  173  ls
+  174  mkdir BACKUP
+  175  rmdir BACKUP
+  176  ls
+  177  touch todo.txt
+  178  ls
+  179  nano todo.txt
+  180  cat todo.txt
+  181  tail todo.txt
+  182  head todo.txt
+  183  rm todo.txt
+  184  ls
+  185  cd PROJECTS
+  186  ls
+  187  cd ..
+  188  rmdir PEOJECTS
+  189  ls
+  190  rm PROJECTS
+  191  rmdie
+  192  rmdir PROJECTS
+  193  ls
+  194  dir /s
+  195  ls
+  196  touch text.txt
+  197  edit text.txt
+  198  rm text.txt
+  199  ls
+  200  datw
+  201  date
+  202  ip addr show
+  203  ifconfug
+  204  ifconfig
+  205  exit
+  206  pkg upgrade
+  207  pkg install openssh
+  208  passwd
+  209  ssh -keygen
+  210  ssh-keygen
+  211  whoami
+  212  ifconfig
+  213  logcat -s 'sshd:'
+  214  ssh daemon
+  215  sshd
+  216  pkill sshd
+  217  logcat -s 'sshd:'
+  218  logcat -s 'TAG:LEVEL'
+  219  logcat -s 'sshd:V'
+  220  clear
+  221  exit
+  222  proot-distro login ubuntu
+  223  exit
+  224  pkg install gh
+  225  ls
+  226  proot-distro login ubuntu
+  227  exit
+  228  cd 230273472-BATERINA
+  229  ls
+  230  mkdir linux_practice
+  231  cd linux_practice
+  232  ls
+  233  touch notes.txt
+  234  nano notes.txt
+  235  cat notes.txt
+  236  echo "Hello, Linux!" >notes.txt
+  237  ls
+  238  cat notes.txt
+  239  echo append "This is a practical exam." >notrs.txt
+  240  echo append "This is a practical exam." >notes.txt
+  241  cat notes.ttxt
+  242  cat notes.txt
+  243  echo "Hello, Linux!">notes.txt
+  244  cat notes.txt
+  245  append "This is a practical exam." >notes.txt
+  246  echo "This is a practical exam." >notes.txt
+  247  cat notes.txt
+  248  echo "Hello, Linux!"
+  249  echo "Hello, Linux!">notes.txt
+  250  echo "This is a practical exam." >>notes.txt
+  251  cat notes.txt
+  252  head notes.txt
+  253  tail notes.txt
+  254  help
+  255  head notes.txt
+  256  tail notes.txt
+  257  mkdir subdir
+  258  ls
+  259  rm notrs.txt
+  260  ls
+  261  mv notes.txt subdir
+  262  ls
+  263  cd subdir
+  264  ls
+  265  mv subdir practice_subdir
+  266  cd subdir
+  267  ls
+  268  cd ..
+  269  mv subdir practice_subdir
+  270  ls
+  271  cd practice_subdir
+  272  cp notes.txt linux_practice
+  273  ls
+  274  rm linux_practice
+  275  ls
+  276  cp linux_practice notes.txt
+  277  cd ..
+  278  cp linux_practice notes.txt
+  279  cp notes.txt
+  280  clear
+  281  ls
+  282  cd practice_subdir
+  283  ls
+  284  cp notes.txt
+  285  cp notes.txt linux_practice
+  286  ls
+  287  cd ..
+  288  ls
+  289  cd practice_subdir
+  290  ls
+  291  rm linux_practice
+  292  ls
+  293  cp notes.txt >linux_practicd
+  294  cp notes.txt >linux_practice
+  295  help
+  296  cp linux_practice notes.txt
+  297  ls
+  298  rm linux_practicd
+  299  ls
+  300  rm linux_practice
+  301  date
+  302  top
+  303  df -h
+  304  pkg update
+  305  pkg update sshd
+  306  pkg list-installed
+  307  clear
+  308  proot-distro install sshd
+  309  clear
+  310  sshd -v
+  311  php -v
+  312  mysql -v
+  313  mysql --v
+  314  apache -v
+  315  pkg list-updates
+  316  pkg list -updates
+  317  pkg help
+  318  list -installex
+  319  list -installed
+  320  pkg list-installed
+  321  php --v
+  322  php -v
+  323  date
+  324  time
+  325  cls
+  326  clear
+  327  cal
+  328  top
+  329  df -h
+  330  openssh -v
+  331  ssh -v
+  332  sshd -v
+  333  openssh --v
+  334  history
+  335  sshd-v
+  336  ssh -v
+  337  SSH -v
+  338  php -v
+  339  mysql -v
+  340  ctl -v
+  341  apachectl -v
+  342  python3 -v
+  343  history
+  344  exit
+  345  ls
+  346  cd 230273472-BATERINA
+  347  help
+  348  '.bash_history'
+  349  clear .bash_history
+  350  clear bash_history
+  351  ls
+  352  cd ..
+  353  ls
+  354  pkg clear .bash_history
+  355  ls
+  356  cd 230273472-BATERINA
+  357  pkg clear .bash_history
+  358  mkdir linux_practice
+  359  cd linux_practice
+  360  touch notes.txt
+  361  ls
+  362  pkg list-all
+  363  clear
+  364  ls
+  365  cat notes.txt
+  366  ls
+  367  exit
+  368  history
+  369  ls
+  370  cd 230273472-BATERINA
+  371  git branch finalexam
+  372  cd ..
+  373  gh repo clone https://github.com/yisha819/230273472-BATERINA.git
+  374  gh auth login
+  375  cd 230273472-BATERINA
+  376  git checkout -b finalexam
+  377  history > exam_log.txt
+  378  git commit -m "Added exam_log.txt with command history"
+  379  git confif --global user.email "haileybaterina@gmail.com"
+  380  git config --global user.email "haileybaterina@gmail.com"
+  381  git commit -m "Added exam_log.txt with command history"
+  382  ls
+  383  git add exam_log.txt
+  384  git commit -m "Added exam_log.txt with command history"
+  385  git config --global user.name "yisha819"
+  386  git push origin finalexam
+  387  ls
+  388  cat exam_log.txt
+  389  clear
+  390  git add exam_log.txt
+  391  ls
+  392  rm exam_log.txt
+  393  git checkout main
+  394  git branch -D finalexam
+  395  git push origin --delete finalexam
+  396  gh repo clone https://github.com/yisha819/230273472-BATERINA.git
+  397  git checkout -b finalexam
+  398  history >exam_log.txt
