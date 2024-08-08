@@ -1,0 +1,35 @@
+    1  ls
+    2  mkdir linux_practice
+    3  cd linux_practice
+    4  touch notes.txt
+    5  cat notes.txt
+    6  echo "Hello, Linux!">notes.txt
+    7  append "This is a practical exam." >notes.txt
+    8  head notes.txt
+    9  echo "Hello, Linux!">notes.txt
+   10  echo "This is a practical exam." >notes.txt
+   11  head notes.txt
+   12  echo "Hello, Linux!" >notes.txt
+   13  echo "This is a practical exam." >>notes.txt
+   14  head notes.txt
+   15  tail notes.txt
+   16  mkdir subdir
+   17  mv notes.txt subdir
+   18  ls
+   19  copy notes.txt linux_practice
+   20  date
+   21  top
+   22  df -h
+   23  ssh -v
+   24  sshd -v
+   25  php -v
+   26  mysql -v
+   27  sql -v
+   28  Mysql -v
+   29  apachectl -v
+   30  python3 -v
+   31  jdk -v
+   32  openjdk -v
+   33  gh repo clone https://github.com/yisha819/230273472-BATERINA.git
+   34  git checkout -b finalexam
+   35  history >exam_log.txt
